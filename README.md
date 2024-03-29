@@ -1,2 +1,1 @@
-# Project-Python-
-Project kecil-kecilan dan iseng aja. Hehehe
+# Python Project
